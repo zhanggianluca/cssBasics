@@ -1,4 +1,4 @@
-# cssBasics
+# CSS selectors and pseudo-class selectors
 
 Task #1
 Create an HTML table with 5 rows and three columns and use external CSS files to produce an output as shown in t1_exemplar. You turn in the Github link to your html and css files.
